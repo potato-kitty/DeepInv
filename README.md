@@ -1,5 +1,5 @@
 # DeepInv
-This is official implementation of our paper ["DeepInv: A Novel Self-supervised Learning  Approach for Fast and Accurate  Diffusion Inversion"](https://arxiv.org/abs/2601.01487)
+This is official implementation of our paper ["DeepInv: A Novel Self-supervised Learning  Approach for Fast and Accurate  Diffusion Inversion"](https://arxiv.org/abs/2601.01487).
 
 ## Model link
 Download [DeepInv.zip](https://huggingface.co/potatocatty/DeepInv). The model is too big for github thus we upload it on HuggingFace.
