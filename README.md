@@ -2,7 +2,7 @@
 This is official implementation of our paper ["DeepInv: A Novel Self-supervised Learning  Approach for Fast and Accurate  Diffusion Inversion"](https://arxiv.org/abs/2601.01487).
 
 ## Model link
-Download [DeepInv.zip](https://huggingface.co/potatocatty/DeepInv). The model is too big for github thus we upload it on HuggingFace.
+Download [DeepInv Solver and Datase we used](https://huggingface.co/potatocatty/DeepInv) here. They are too big for github thus we upload it on HuggingFace.
 
 ## Simple use case
 1. load model by "model = torch.load(model_path)"
